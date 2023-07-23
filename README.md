@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--  :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-  :telescope: I’m working and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
@@ -54,4 +54,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImHarshwardhan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImHarshwardhan&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImHarshwardhan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
