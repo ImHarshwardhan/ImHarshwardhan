@@ -21,14 +21,16 @@
     
 ---
 
-#  👨‍💻 About Me :
+# 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--  :telescope: I’m working and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-
-- 📬How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshwardhan-shelar)
+- 💼 I'm currently working at **FirstCry** as a **Software Developer 1**.
+- 🔧 I work on both **frontend and backend** development to build scalable web applications.
+- 🧠 I’m passionate about **learning new technologies**, exploring **system design**, and diving into **Generative AI**.
+- 📚 I regularly **read tech blogs**, contribute to side projects, and explore open-source tools.
+- 🧩 I enjoy solving **data structures and algorithm** problems on **LeetCode**.
+- 🤝 I believe in collaboration, mentorship, and sharing knowledge with the tech community.
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshwardhan-shelar)
 
 ---
 
@@ -49,7 +51,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 </div>
 
 ---
